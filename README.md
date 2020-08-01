@@ -10,8 +10,9 @@
 The dog is a domesticated carnivoran of the family Canidae. It is part of the wolf-like canids and is the most widely abundant terrestrial carnivore.  
 In this project, I have built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. Given an image of a dog, my algorithm will identify an estimate of the canine’s breed. If supplied with an image of a human, the code will identify the resembling dog breed.    
 
-__A blog post regarding this to this project can be found in this [link](https://medium.com/@apu3660/dog-breed-classification-using-cnn-f94e48309e46?sk=75f7c198e55de5ad196384626e19a6ee)__     
-Check the jupyter notebook in the dog_app.ipynb to get the full code.
+__A blog post regarding this to this project can be found in this [link](https://medium.com/@apu3660/dog-breed-classification-using-cnn-f94e48309e46?sk=75f7c198e55de5ad196384626e19a6ee)__  
+
+Check the jupyter notebook in the `dog_app.ipynb` to get the full code.
 
 ## Libraries:
 Check out the `requirements.txt` to install the libraries that have used in this project
@@ -62,7 +63,7 @@ As my testing accuracy was not so good, with that considering it’s performing 
 3. By tuning the optimizer
 
 ## References:    
-This project was choosen from Udacity deep learning nanodegree program
+This project was choosen from `Udacity Deep Learning Nanodegree Program`
 
 
 LICENSE: This project is licensed under the terms of the MIT license.
