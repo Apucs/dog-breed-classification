@@ -62,8 +62,8 @@ As my testing accuracy was not so good, with that considering it’s performing 
 2. More hidden layers can be added to detect more complex features
 3. By tuning the optimizer
 
-## References:    
-This project was choosen from `Udacity Deep Learning Nanodegree Program`
+### References:   This project was choosen from `Udacity Deep Learning Nanodegree Program`
+
 
 
 LICENSE: This project is licensed under the terms of the MIT license.
